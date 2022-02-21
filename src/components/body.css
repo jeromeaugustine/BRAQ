@@ -1,0 +1,12 @@
+.mintgif {
+  border: solid;
+  border-radius: 30px;
+  border-color: transparent;
+}
+
+.button {
+  background-color: #c9eaf2;
+  border: 2px solid;
+  border-radius: 10px;
+  border-color: black;
+}

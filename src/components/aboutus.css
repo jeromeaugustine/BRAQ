@@ -1,0 +1,100 @@
+.aboutContainer {
+  width: 100%;
+}
+
+.aboutusContainer {
+  justify-content: center;
+  align-items: center;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.aboutus {
+  font-family: "CaviarDreamsBold";
+  font-size: 40px;
+  padding: 10px;
+  color: rgba(110, 82, 110, 0.863);
+}
+
+.aboutContent {
+  background-color: #beb7db;
+  padding: 40px;
+  border-radius: 50px;
+  font-family: "CaviarDreamsBold";
+  color: white;
+}
+
+.investContainer {
+  justify-content: center;
+  align-items: center;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.invest {
+  font-family: "CaviarDreamsBold";
+  font-size: 30px;
+  padding: 10px;
+  color: rgba(110, 82, 110, 0.863);
+}
+
+.investContent {
+  background-color: #c8e9f1;
+  padding: 40px;
+  border-radius: 50px;
+  font-family: "CaviarDreamsBold";
+  color: rgba(110, 82, 110, 0.863);
+}
+
+.head {
+  margin-top: 50px;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.headcontainer {
+  border: 2px solid;
+  border-radius: 20px;
+  padding: 10px;
+  border-color: rgb(255, 232, 232);
+  background-color: #f2d5e7;
+  width: fit-content;
+  color: rgba(110, 82, 110, 0.863);
+  font-size: 24px;
+  font-family: "CaviarDreamsBold";
+}
+
+.teamContainer {
+  width: 100%;
+}
+
+.profileContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile {
+  margin: 30px;
+  padding-bottom: 10px;
+  border-radius: 30px;
+  border: 2px solid;
+  border-color: #f2d5e7;
+  height: max-content;
+}
+
+.profilePicture > img {
+  border-radius: 30px;
+}
+
+.socialLinks {
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.logo {
+  padding: 5px;
+}

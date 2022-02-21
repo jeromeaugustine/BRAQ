@@ -1,0 +1,29 @@
+.accordion {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding: 100px;
+}
+
+.accordion-item {
+  padding-bottom: 20px;
+  margin: 20px;
+  border: 3px solid;
+  border-radius: 20px;
+  padding: 20px;
+  color: aliceblue;
+  background-color: #bfb8dc;
+  cursor: pointer;
+}
+
+.accordion-title {
+  font-weight: bold;
+  font-size: 24px;
+  font-family: "CaviarDreamsBold  ";
+}
+
+.accordion-content {
+  font-size: 14px;
+  font-family: "CaviarDreamsBold";
+}

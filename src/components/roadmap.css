@@ -1,0 +1,80 @@
+.roadmap {
+  display: block;
+  padding: 100px;
+  background-image: linear-gradient();
+}
+
+.roadmapheader {
+  height: 50px;
+  justify-content: center;
+  color: #f2d5e7;
+  font-family: "CaviarDreamsBold";
+  font-size: 30px;
+  padding-bottom: 50px;
+}
+
+.roadmapContent {
+  width: 100%;
+  display: flex;
+}
+
+.roadmapBackground {
+  width: 40%;
+  background-image: url("../assets/roadmap/Braq_web-03.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-left: 100px;
+}
+
+.roadmapContainer {
+  width: 60%;
+  font-size: small;
+  justify-content: flex-end;
+  text-size-adjust: inherit;
+}
+
+.q1Container {
+  display: flex;
+  padding: 30px;
+  margin-right: 40px;
+  align-items: center;
+  align-self: flex-start;
+  justify-content: center;
+}
+
+.q2Container {
+  display: flex;
+  padding: 30px;
+  align-items: center;
+  align-self: flex-end;
+  justify-content: right;
+}
+
+.q3Container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+  margin-right: 10px;
+}
+
+.q4Container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+  margin-right: 40px;
+}
+
+.quarterevents {
+  border: 5px solid;
+  border-radius: 20px;
+  border-color: #f2d5e7;
+  padding: 20px;
+}
+
+.event {
+  font-family: "CaviarDreamsBold  ";
+  color: #f2d5e7;
+  font-size: 20px;
+}

@@ -1,0 +1,30 @@
+.footerContainer {
+  height: 200px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.emptyContainer {
+  width: 40%;
+}
+
+.logoContainer {
+  width: 20%;
+}
+
+.socialContainer {
+  width: 40%;
+  justify-content: center;
+  display: flex;
+  height: fit-content;
+  align-self: center;
+}
+
+.social {
+  margin: 20px;
+}
+
+.trademark {
+  font-size: xx-small;
+}
