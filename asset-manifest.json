@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/braq/static/css/main.e9171230.css",
-    "main.js": "/braq/static/js/main.c548ad44.js",
-    "static/js/787.fa53ab21.chunk.js": "/braq/static/js/787.fa53ab21.chunk.js",
-    "static/media/Braq_Background-03.png": "/braq/static/media/Braq_Background-03.dc5dd4790a68dfc38ff2.png",
-    "static/media/Braq_web-03.png": "/braq/static/media/Braq_web-03.da04e1f16c1aedae0918.png",
-    "static/media/braqgif.gif": "/braq/static/media/braqgif.6dc07fe2758a41d37b30.gif",
-    "static/media/anastasiaprofilepic.png": "/braq/static/media/anastasiaprofilepic.aab09cc5f2c7407e060b.png",
-    "static/media/jeromeprofilepic.png": "/braq/static/media/jeromeprofilepic.dede5e43ac1757821185.png",
-    "index.html": "/braq/index.html",
-    "main.e9171230.css.map": "/braq/static/css/main.e9171230.css.map",
-    "main.c548ad44.js.map": "/braq/static/js/main.c548ad44.js.map",
-    "787.fa53ab21.chunk.js.map": "/braq/static/js/787.fa53ab21.chunk.js.map"
+    "main.css": "/static/css/main.9d5b71ca.css",
+    "main.js": "/static/js/main.1b27e793.js",
+    "static/js/787.fa53ab21.chunk.js": "/static/js/787.fa53ab21.chunk.js",
+    "static/media/Braq_Background-03.png": "/static/media/Braq_Background-03.dc5dd4790a68dfc38ff2.png",
+    "static/media/Braq_web-03.png": "/static/media/Braq_web-03.da04e1f16c1aedae0918.png",
+    "static/media/braqgif.gif": "/static/media/braqgif.6dc07fe2758a41d37b30.gif",
+    "static/media/anastasiaprofilepic.png": "/static/media/anastasiaprofilepic.aab09cc5f2c7407e060b.png",
+    "static/media/jeromeprofilepic.png": "/static/media/jeromeprofilepic.dede5e43ac1757821185.png",
+    "index.html": "/index.html",
+    "main.9d5b71ca.css.map": "/static/css/main.9d5b71ca.css.map",
+    "main.1b27e793.js.map": "/static/js/main.1b27e793.js.map",
+    "787.fa53ab21.chunk.js.map": "/static/js/787.fa53ab21.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9171230.css",
-    "static/js/main.c548ad44.js"
+    "static/css/main.9d5b71ca.css",
+    "static/js/main.1b27e793.js"
   ]
 }
