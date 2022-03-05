@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.cb9e0039.css",
-    "main.js": "/static/js/main.366929f7.js",
+    "main.css": "/static/css/main.ddfe38ef.css",
+    "main.js": "/static/js/main.32eeb3e7.js",
     "static/js/787.fa53ab21.chunk.js": "/static/js/787.fa53ab21.chunk.js",
     "static/media/BRAQ_Social05-04.png": "/static/media/BRAQ_Social05-04.cacf3ed6ddf9703f84d7.png",
     "static/media/Braq_Background-03.png": "/static/media/Braq_Background-03.dc5dd4790a68dfc38ff2.png",
     "static/media/anastasiaprofilepic.png": "/static/media/anastasiaprofilepic.aab09cc5f2c7407e060b.png",
     "static/media/jeromeprofilepic.png": "/static/media/jeromeprofilepic.dede5e43ac1757821185.png",
     "index.html": "/index.html",
-    "main.cb9e0039.css.map": "/static/css/main.cb9e0039.css.map",
-    "main.366929f7.js.map": "/static/js/main.366929f7.js.map",
+    "main.ddfe38ef.css.map": "/static/css/main.ddfe38ef.css.map",
+    "main.32eeb3e7.js.map": "/static/js/main.32eeb3e7.js.map",
     "787.fa53ab21.chunk.js.map": "/static/js/787.fa53ab21.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb9e0039.css",
-    "static/js/main.366929f7.js"
+    "static/css/main.ddfe38ef.css",
+    "static/js/main.32eeb3e7.js"
   ]
 }
