@@ -1,19 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.3da068a7.css",
-    "main.js": "/static/js/main.32eeb3e7.js",
+    "main.css": "/static/css/main.099bb657.css",
+    "main.js": "/static/js/main.62cd2dcf.js",
     "static/js/787.fa53ab21.chunk.js": "/static/js/787.fa53ab21.chunk.js",
     "static/media/BRAQ_Social05-04.png": "/static/media/BRAQ_Social05-04.cacf3ed6ddf9703f84d7.png",
+    "static/media/BRAQ_Social-05.png": "/static/media/BRAQ_Social-05.d0c00c8e06854c4bd3f4.png",
     "static/media/BRAQ_mobilebackground-05.png": "/static/media/BRAQ_mobilebackground-05.95f8679dd1f316a6b538.png",
+    "static/media/BRAQ_Social-03.png": "/static/media/BRAQ_Social-03.0757b2e7f42e94352dd4.png",
+    "static/media/BRAQ_Social-02.png": "/static/media/BRAQ_Social-02.8a9781f4eafb0f7ff487.png",
+    "static/media/BRAQ_Website_all-02.png": "/static/media/BRAQ_Website_all-02.0aee52b008cafd48d66c.png",
     "static/media/anastasiaprofilepic.png": "/static/media/anastasiaprofilepic.aab09cc5f2c7407e060b.png",
+    "static/media/BRAQ_Website_all-03.png": "/static/media/BRAQ_Website_all-03.6f8b4db4d0e8201f2e98.png",
     "static/media/jeromeprofilepic.png": "/static/media/jeromeprofilepic.dede5e43ac1757821185.png",
+    "static/media/BRAQ_Social-06.png": "/static/media/BRAQ_Social-06.b5c938e2ee1b27fc3a98.png",
+    "static/media/BRAQ_Social-01.png": "/static/media/BRAQ_Social-01.18757e369ec9f8bd398e.png",
     "index.html": "/index.html",
-    "main.3da068a7.css.map": "/static/css/main.3da068a7.css.map",
-    "main.32eeb3e7.js.map": "/static/js/main.32eeb3e7.js.map",
+    "main.099bb657.css.map": "/static/css/main.099bb657.css.map",
+    "main.62cd2dcf.js.map": "/static/js/main.62cd2dcf.js.map",
     "787.fa53ab21.chunk.js.map": "/static/js/787.fa53ab21.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3da068a7.css",
-    "static/js/main.32eeb3e7.js"
+    "static/css/main.099bb657.css",
+    "static/js/main.62cd2dcf.js"
   ]
 }
