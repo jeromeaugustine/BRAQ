@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.4dda65c4.css",
-    "main.js": "/static/js/main.f4aa84cb.js",
+    "main.css": "/static/css/main.5422a8fe.css",
+    "main.js": "/static/js/main.f4049438.js",
     "static/js/787.fa53ab21.chunk.js": "/static/js/787.fa53ab21.chunk.js",
     "static/media/BRAQ_Social-04.png": "/static/media/BRAQ_Social-04.dc795f6c538ec5e955a2.png",
     "static/media/ezgif.com-gif-maker 2.gif": "/static/media/ezgif.com-gif-maker 2.93b791e24fe3090c04d4.gif",
     "static/media/BRAQ_Social-03.png": "/static/media/BRAQ_Social-03.0757b2e7f42e94352dd4.png",
-    "static/media/BRAQ_Social-02.png": "/static/media/BRAQ_Social-02.8a9781f4eafb0f7ff487.png",
     "static/media/banner2-02.jpg": "/static/media/banner2-02.2ac87cb371518f38f92d.jpg",
     "static/media/BRAQ_Website_all-02.png": "/static/media/BRAQ_Website_all-02.0aee52b008cafd48d66c.png",
     "static/media/anastasiaprofilepic.png": "/static/media/anastasiaprofilepic.aab09cc5f2c7407e060b.png",
@@ -15,12 +14,12 @@
     "static/media/BRAQ_Social-06.png": "/static/media/BRAQ_Social-06.b5c938e2ee1b27fc3a98.png",
     "static/media/BRAQ_joinDiscord-01.png": "/static/media/BRAQ_joinDiscord-01.348e25e39738db698c62.png",
     "index.html": "/index.html",
-    "main.4dda65c4.css.map": "/static/css/main.4dda65c4.css.map",
-    "main.f4aa84cb.js.map": "/static/js/main.f4aa84cb.js.map",
+    "main.5422a8fe.css.map": "/static/css/main.5422a8fe.css.map",
+    "main.f4049438.js.map": "/static/js/main.f4049438.js.map",
     "787.fa53ab21.chunk.js.map": "/static/js/787.fa53ab21.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4dda65c4.css",
-    "static/js/main.f4aa84cb.js"
+    "static/css/main.5422a8fe.css",
+    "static/js/main.f4049438.js"
   ]
 }
