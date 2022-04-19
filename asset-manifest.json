@@ -1,15 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.eb70e412.css",
-    "main.js": "/static/js/main.8bf423ef.js",
+    "main.css": "/static/css/main.0da1a010.css",
+    "main.js": "/static/js/main.211cb75f.js",
     "static/js/787.fa53ab21.chunk.js": "/static/js/787.fa53ab21.chunk.js",
     "static/media/braqfrndsgif.gif": "/static/media/braqfrndsgif.fabc3ef6f5942a848454.gif",
     "static/media/ezgif.com-gif-maker 2.gif": "/static/media/ezgif.com-gif-maker 2.93b791e24fe3090c04d4.gif",
-    "static/media/BRAQ_Banner-02.png": "/static/media/BRAQ_Banner-02.f71e6973952dbfce0e59.png",
+    "static/media/Website_Banner-02.png": "/static/media/Website_Banner-02.afe598615c00a849379d.png",
     "static/media/BRAQ_Banner-01.png": "/static/media/BRAQ_Banner-01.5a0544ab0c79273a31e8.png",
     "static/media/bigdogpfp.png": "/static/media/bigdogpfp.90dc82b7b0cc6d1179d0.png",
     "static/media/anapfp.png": "/static/media/anapfp.bb3002337ab761ba101f.png",
-    "static/media/BRAQ_Social-03.png": "/static/media/BRAQ_Social-03.0757b2e7f42e94352dd4.png",
     "static/media/pingupfp.png": "/static/media/pingupfp.1e20a69e3afab23b9829.png",
     "static/media/nelsonpfp.JPG": "/static/media/nelsonpfp.9b2c33d512298b721efd.JPG",
     "static/media/jeromepfp.JPG": "/static/media/jeromepfp.73b37fa9effb796072a7.JPG",
@@ -19,12 +18,12 @@
     "static/media/BRAQ_Social-06.png": "/static/media/BRAQ_Social-06.b5c938e2ee1b27fc3a98.png",
     "static/media/BRAQ_joinDiscord-01.png": "/static/media/BRAQ_joinDiscord-01.348e25e39738db698c62.png",
     "index.html": "/index.html",
-    "main.eb70e412.css.map": "/static/css/main.eb70e412.css.map",
-    "main.8bf423ef.js.map": "/static/js/main.8bf423ef.js.map",
+    "main.0da1a010.css.map": "/static/css/main.0da1a010.css.map",
+    "main.211cb75f.js.map": "/static/js/main.211cb75f.js.map",
     "787.fa53ab21.chunk.js.map": "/static/js/787.fa53ab21.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb70e412.css",
-    "static/js/main.8bf423ef.js"
+    "static/css/main.0da1a010.css",
+    "static/js/main.211cb75f.js"
   ]
 }
