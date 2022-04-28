@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0d6b0286.css",
-    "main.js": "/static/js/main.81100f92.js",
+    "main.css": "/static/css/main.a608760c.css",
+    "main.js": "/static/js/main.2878ce0b.js",
     "static/js/787.fa53ab21.chunk.js": "/static/js/787.fa53ab21.chunk.js",
     "static/media/ezgif.com-gif-maker 2.gif": "/static/media/ezgif.com-gif-maker 2.93b791e24fe3090c04d4.gif",
     "static/media/Braq_Web_Banner-02.png": "/static/media/Braq_Web_Banner-02.8f9860006b7af48b1d19.png",
@@ -10,13 +10,15 @@
     "static/media/anapfp.png": "/static/media/anapfp.bb3002337ab761ba101f.png",
     "static/media/Braq_Web_Assests-04.png": "/static/media/Braq_Web_Assests-04.b3cf5a3003aeef46f62a.png",
     "static/media/pingupfp.png": "/static/media/pingupfp.1e20a69e3afab23b9829.png",
-    "static/media/nelsonpfp.JPG": "/static/media/nelsonpfp.9b2c33d512298b721efd.JPG",
     "static/media/jeromepfp.JPG": "/static/media/jeromepfp.73b37fa9effb796072a7.JPG",
     "static/media/Braq_Web_Assests-01.png": "/static/media/Braq_Web_Assests-01.1f055afe8778d9c170ef.png",
     "static/media/Braq_Web_Assests-03.png": "/static/media/Braq_Web_Assests-03.bd2fad3d08ce382f810a.png",
+    "static/media/nelsonpfp.JPG": "/static/media/nelsonpfp.e7358c2cf3ae86b382da.JPG",
     "static/media/shanapfp.JPG": "/static/media/shanapfp.8c5f123d4d7aec6e8ab4.JPG",
     "static/media/Braq_Web_Assests-02.png": "/static/media/Braq_Web_Assests-02.48a3175dda558d93a0fe.png",
     "static/media/Braq_Web_Assests-08.png": "/static/media/Braq_Web_Assests-08.0023ec6f49ede79cf17c.png",
+    "static/media/web_twitter.png": "/static/media/web_twitter.9db82d6f54ee8971f024.png",
+    "static/media/web_IG.png": "/static/media/web_IG.41145f61bd4970668b65.png",
     "static/media/Braq_Web_Assests-07.png": "/static/media/Braq_Web_Assests-07.5f2cebd4b48da14e1c7b.png",
     "static/media/Braq_Web_Assests-06.png": "/static/media/Braq_Web_Assests-06.faf4eb41662480e6e3f0.png",
     "static/media/BRAQ_Website_all-02.png": "/static/media/BRAQ_Website_all-02.0aee52b008cafd48d66c.png",
@@ -24,12 +26,12 @@
     "static/media/BRAQ_Website_all-03.png": "/static/media/BRAQ_Website_all-03.6f8b4db4d0e8201f2e98.png",
     "static/media/BRAQ_Social-06.png": "/static/media/BRAQ_Social-06.b5c938e2ee1b27fc3a98.png",
     "index.html": "/index.html",
-    "main.0d6b0286.css.map": "/static/css/main.0d6b0286.css.map",
-    "main.81100f92.js.map": "/static/js/main.81100f92.js.map",
+    "main.a608760c.css.map": "/static/css/main.a608760c.css.map",
+    "main.2878ce0b.js.map": "/static/js/main.2878ce0b.js.map",
     "787.fa53ab21.chunk.js.map": "/static/js/787.fa53ab21.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d6b0286.css",
-    "static/js/main.81100f92.js"
+    "static/css/main.a608760c.css",
+    "static/js/main.2878ce0b.js"
   ]
 }
