@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.2180fcb6.css",
-    "main.js": "/static/js/main.f2fb3ca8.js",
+    "main.css": "/static/css/main.efd52e79.css",
+    "main.js": "/static/js/main.e9a1f5ce.js",
     "static/js/787.fa53ab21.chunk.js": "/static/js/787.fa53ab21.chunk.js",
     "static/media/ezgif.com-gif-maker 2.gif": "/static/media/ezgif.com-gif-maker 2.93b791e24fe3090c04d4.gif",
     "static/media/Braq_Web_Banner-02.png": "/static/media/Braq_Web_Banner-02.8f9860006b7af48b1d19.png",
-    "static/media/bigdogpfp.png": "/static/media/bigdogpfp.90dc82b7b0cc6d1179d0.png",
+    "static/media/anapfp.png": "/static/media/anapfp.761540fe3d5be71f63bb.png",
+    "static/media/shanapfp.png": "/static/media/shanapfp.68dc09c2851496a89dfc.png",
+    "static/media/bigdogpfp.png": "/static/media/bigdogpfp.68475e1bc6199eb69e5d.png",
+    "static/media/pingupfp.png": "/static/media/pingupfp.9079153b33e4cbe35e40.png",
     "static/media/Braq_Web_Banner-03.png": "/static/media/Braq_Web_Banner-03.689226f379e16b7bc29d.png",
-    "static/media/anapfp.png": "/static/media/anapfp.bb3002337ab761ba101f.png",
+    "static/media/nelsonpfp.png": "/static/media/nelsonpfp.5756e01a27ed6d8b38e5.png",
     "static/media/Braq_Web_Assests-04.png": "/static/media/Braq_Web_Assests-04.b3cf5a3003aeef46f62a.png",
-    "static/media/pingupfp.png": "/static/media/pingupfp.1e20a69e3afab23b9829.png",
     "static/media/jeromepfp.JPG": "/static/media/jeromepfp.73b37fa9effb796072a7.JPG",
     "static/media/Braq_Web_Assests-01.png": "/static/media/Braq_Web_Assests-01.1f055afe8778d9c170ef.png",
     "static/media/Braq_Web_Assests-03.png": "/static/media/Braq_Web_Assests-03.bd2fad3d08ce382f810a.png",
-    "static/media/nelsonpfp.JPG": "/static/media/nelsonpfp.e7358c2cf3ae86b382da.JPG",
-    "static/media/shanapfp.JPG": "/static/media/shanapfp.8c5f123d4d7aec6e8ab4.JPG",
+    "static/media/BRAQ_web_mobile-17.png": "/static/media/BRAQ_web_mobile-17.5ce5a53dd92318e062fa.png",
     "static/media/Braq_Web_Assests-02.png": "/static/media/Braq_Web_Assests-02.48a3175dda558d93a0fe.png",
     "static/media/Braq_Web_Assests-08.png": "/static/media/Braq_Web_Assests-08.0023ec6f49ede79cf17c.png",
     "static/media/web_twitter.png": "/static/media/web_twitter.9db82d6f54ee8971f024.png",
+    "static/media/BRAQ_web_mobile-16.png": "/static/media/BRAQ_web_mobile-16.b59c5399bceba9a56d88.png",
     "static/media/web_IG.png": "/static/media/web_IG.41145f61bd4970668b65.png",
     "static/media/Braq_Web_Assests-07.png": "/static/media/Braq_Web_Assests-07.5f2cebd4b48da14e1c7b.png",
     "static/media/Braq_Web_Assests-06.png": "/static/media/Braq_Web_Assests-06.faf4eb41662480e6e3f0.png",
@@ -26,12 +28,12 @@
     "static/media/BRAQ_Website_all-03.png": "/static/media/BRAQ_Website_all-03.6f8b4db4d0e8201f2e98.png",
     "static/media/BRAQ_Social-06.png": "/static/media/BRAQ_Social-06.b5c938e2ee1b27fc3a98.png",
     "index.html": "/index.html",
-    "main.2180fcb6.css.map": "/static/css/main.2180fcb6.css.map",
-    "main.f2fb3ca8.js.map": "/static/js/main.f2fb3ca8.js.map",
+    "main.efd52e79.css.map": "/static/css/main.efd52e79.css.map",
+    "main.e9a1f5ce.js.map": "/static/js/main.e9a1f5ce.js.map",
     "787.fa53ab21.chunk.js.map": "/static/js/787.fa53ab21.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2180fcb6.css",
-    "static/js/main.f2fb3ca8.js"
+    "static/css/main.efd52e79.css",
+    "static/js/main.e9a1f5ce.js"
   ]
 }
