@@ -1,10 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.02a124c5.css",
-    "main.js": "/static/js/main.f5fe6cf7.js",
+    "main.js": "/static/js/main.f6e4826d.js",
     "static/js/787.fa53ab21.chunk.js": "/static/js/787.fa53ab21.chunk.js",
     "static/media/ezgif.com-gif-maker (23).gif": "/static/media/ezgif.com-gif-maker (23).f6b48dcf0939cb641908.gif",
-    "static/media/Braq_Web_Banner-02.png": "/static/media/Braq_Web_Banner-02.8f9860006b7af48b1d19.png",
     "static/media/Braq_Web_Banner-03.png": "/static/media/Braq_Web_Banner-03.689226f379e16b7bc29d.png",
     "static/media/Braq_Web_Assests-04.png": "/static/media/Braq_Web_Assests-04.b3cf5a3003aeef46f62a.png",
     "static/media/jeromepfp.JPG": "/static/media/jeromepfp.73b37fa9effb796072a7.JPG",
@@ -24,20 +23,13 @@
     "static/media/web_twitter.png": "/static/media/web_twitter.9db82d6f54ee8971f024.png",
     "static/media/BRAQ_web_mobile-16.png": "/static/media/BRAQ_web_mobile-16.b59c5399bceba9a56d88.png",
     "static/media/web_IG.png": "/static/media/web_IG.41145f61bd4970668b65.png",
-    "static/media/Braq_Web_Assests-07.png": "/static/media/Braq_Web_Assests-07.5f2cebd4b48da14e1c7b.png",
-    "static/media/BRAQ_alt_logo-12.png": "/static/media/BRAQ_alt_logo-12.56ffd69f911de169e944.png",
-    "static/media/Braq_Web_Assests-06.png": "/static/media/Braq_Web_Assests-06.faf4eb41662480e6e3f0.png",
-    "static/media/BRAQ_Website_all-02.png": "/static/media/BRAQ_Website_all-02.0aee52b008cafd48d66c.png",
-    "static/media/Braq_Web_Assests-05.png": "/static/media/Braq_Web_Assests-05.63596f314de73ddc3099.png",
-    "static/media/BRAQ_Website_all-03.png": "/static/media/BRAQ_Website_all-03.6f8b4db4d0e8201f2e98.png",
-    "static/media/BRAQ_Social-06.png": "/static/media/BRAQ_Social-06.b5c938e2ee1b27fc3a98.png",
     "index.html": "/index.html",
     "main.02a124c5.css.map": "/static/css/main.02a124c5.css.map",
-    "main.f5fe6cf7.js.map": "/static/js/main.f5fe6cf7.js.map",
+    "main.f6e4826d.js.map": "/static/js/main.f6e4826d.js.map",
     "787.fa53ab21.chunk.js.map": "/static/js/787.fa53ab21.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02a124c5.css",
-    "static/js/main.f5fe6cf7.js"
+    "static/js/main.f6e4826d.js"
   ]
 }
