@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.02a124c5.css",
-    "main.js": "/static/js/main.f6e4826d.js",
+    "main.css": "/static/css/main.5e2b50c4.css",
+    "main.js": "/static/js/main.fb5ee1a8.js",
     "static/js/787.fa53ab21.chunk.js": "/static/js/787.fa53ab21.chunk.js",
-    "static/media/ezgif.com-gif-maker (23).gif": "/static/media/ezgif.com-gif-maker (23).f6b48dcf0939cb641908.gif",
+    "static/media/maycbraqgif.gif": "/static/media/maycbraqgif.25ef5b0113af14357aaf.gif",
     "static/media/Braq_Web_Banner-03.png": "/static/media/Braq_Web_Banner-03.689226f379e16b7bc29d.png",
     "static/media/Braq_Web_Assests-04.png": "/static/media/Braq_Web_Assests-04.b3cf5a3003aeef46f62a.png",
     "static/media/jeromepfp.JPG": "/static/media/jeromepfp.73b37fa9effb796072a7.JPG",
@@ -24,12 +24,12 @@
     "static/media/BRAQ_web_mobile-16.png": "/static/media/BRAQ_web_mobile-16.b59c5399bceba9a56d88.png",
     "static/media/web_IG.png": "/static/media/web_IG.41145f61bd4970668b65.png",
     "index.html": "/index.html",
-    "main.02a124c5.css.map": "/static/css/main.02a124c5.css.map",
-    "main.f6e4826d.js.map": "/static/js/main.f6e4826d.js.map",
+    "main.5e2b50c4.css.map": "/static/css/main.5e2b50c4.css.map",
+    "main.fb5ee1a8.js.map": "/static/js/main.fb5ee1a8.js.map",
     "787.fa53ab21.chunk.js.map": "/static/js/787.fa53ab21.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.02a124c5.css",
-    "static/js/main.f6e4826d.js"
+    "static/css/main.5e2b50c4.css",
+    "static/js/main.fb5ee1a8.js"
   ]
 }
