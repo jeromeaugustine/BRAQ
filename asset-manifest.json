@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.5e2b50c4.css",
+    "main.css": "/static/css/main.59ca0f9e.css",
     "main.js": "/static/js/main.fb5ee1a8.js",
     "static/js/787.fa53ab21.chunk.js": "/static/js/787.fa53ab21.chunk.js",
     "static/media/maycbraqgif.gif": "/static/media/maycbraqgif.25ef5b0113af14357aaf.gif",
@@ -24,12 +24,12 @@
     "static/media/BRAQ_web_mobile-16.png": "/static/media/BRAQ_web_mobile-16.b59c5399bceba9a56d88.png",
     "static/media/web_IG.png": "/static/media/web_IG.41145f61bd4970668b65.png",
     "index.html": "/index.html",
-    "main.5e2b50c4.css.map": "/static/css/main.5e2b50c4.css.map",
+    "main.59ca0f9e.css.map": "/static/css/main.59ca0f9e.css.map",
     "main.fb5ee1a8.js.map": "/static/js/main.fb5ee1a8.js.map",
     "787.fa53ab21.chunk.js.map": "/static/js/787.fa53ab21.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e2b50c4.css",
+    "static/css/main.59ca0f9e.css",
     "static/js/main.fb5ee1a8.js"
   ]
 }
