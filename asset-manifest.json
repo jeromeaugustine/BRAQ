@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1ef77f44.css",
-    "main.js": "/static/js/main.fb5ee1a8.js",
+    "main.js": "/static/js/main.92a4abe2.js",
     "static/js/787.fa53ab21.chunk.js": "/static/js/787.fa53ab21.chunk.js",
     "static/media/maycbraqgif.gif": "/static/media/maycbraqgif.25ef5b0113af14357aaf.gif",
     "static/media/Braq_Web_Banner-03.png": "/static/media/Braq_Web_Banner-03.689226f379e16b7bc29d.png",
@@ -25,11 +25,11 @@
     "static/media/web_IG.png": "/static/media/web_IG.41145f61bd4970668b65.png",
     "index.html": "/index.html",
     "main.1ef77f44.css.map": "/static/css/main.1ef77f44.css.map",
-    "main.fb5ee1a8.js.map": "/static/js/main.fb5ee1a8.js.map",
+    "main.92a4abe2.js.map": "/static/js/main.92a4abe2.js.map",
     "787.fa53ab21.chunk.js.map": "/static/js/787.fa53ab21.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1ef77f44.css",
-    "static/js/main.fb5ee1a8.js"
+    "static/js/main.92a4abe2.js"
   ]
 }
