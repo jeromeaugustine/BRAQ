@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2b8313f1.css",
-    "main.js": "/static/js/main.20d86368.js",
+    "main.css": "/static/css/main.43dd6922.css",
+    "main.js": "/static/js/main.00217920.js",
     "static/js/787.fa53ab21.chunk.js": "/static/js/787.fa53ab21.chunk.js",
     "static/media/clonex.png": "/static/media/clonex.589180b511b16aded1ed.png",
     "static/media/BRAQ_Roadmap-01.png": "/static/media/BRAQ_Roadmap-01.dd241027ed756d9a3a57.png",
@@ -23,7 +23,6 @@
     "static/media/utilityboxbackground.png": "/static/media/utilityboxbackground.67da6deab5df8df94e13.png",
     "static/media/ats-logo.png": "/static/media/ats-logo.ac9cdc88bd22c54f8a22.png",
     "static/media/wenmint-logo.png": "/static/media/wenmint-logo.56cd701e86293bf0ff4b.png",
-    "static/media/BRAQ-Corp-logo.png": "/static/media/BRAQ-Corp-logo.acfddde966e58e0cbd1e.png",
     "static/media/Banner_Background.jpeg": "/static/media/Banner_Background.b022f4b7c6dc2bb115f2.jpeg",
     "static/media/egg-logo.png": "/static/media/egg-logo.fe06c36b6bd9282c4062.png",
     "static/media/BRAQ_Header_Logo.png": "/static/media/BRAQ_Header_Logo.7e87d860aacd6452ff2b.png",
@@ -33,18 +32,16 @@
     "static/media/Footer Twitter.png": "/static/media/Footer Twitter.0345fe4f8ea6d420cbcf.png",
     "static/media/Footer Medium.png": "/static/media/Footer Medium.8a0759e0aceaffa4db07.png",
     "static/media/delegate-logo.png": "/static/media/delegate-logo.db101e5174ad5d65c397.png",
-    "static/media/liquidity-logo.png": "/static/media/liquidity-logo.7f0fc4563a29ecde9294.png",
     "static/media/join-discord-logo.png": "/static/media/join-discord-logo.8f76b0328f4109be9165.png",
-    "static/media/price-discovery.png": "/static/media/price-discovery.360211233ea6f1e4eed5.png",
     "static/media/snap-logo.png": "/static/media/snap-logo.c474796c21eb3a681c34.png",
     "static/media/os-logo.png": "/static/media/os-logo.701d62f54a3059ff8c57.png",
     "index.html": "/index.html",
-    "main.2b8313f1.css.map": "/static/css/main.2b8313f1.css.map",
-    "main.20d86368.js.map": "/static/js/main.20d86368.js.map",
+    "main.43dd6922.css.map": "/static/css/main.43dd6922.css.map",
+    "main.00217920.js.map": "/static/js/main.00217920.js.map",
     "787.fa53ab21.chunk.js.map": "/static/js/787.fa53ab21.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b8313f1.css",
-    "static/js/main.20d86368.js"
+    "static/css/main.43dd6922.css",
+    "static/js/main.00217920.js"
   ]
 }
