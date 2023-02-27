@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3c3b660c.css",
-    "main.js": "/static/js/main.79ec7cc4.js",
+    "main.css": "/static/css/main.ab3e3980.css",
+    "main.js": "/static/js/main.4529a88d.js",
     "static/js/787.fa53ab21.chunk.js": "/static/js/787.fa53ab21.chunk.js",
     "static/media/clonex.png": "/static/media/clonex.589180b511b16aded1ed.png",
     "static/media/BRAQ_Roadmap-01.png": "/static/media/BRAQ_Roadmap-01.dd241027ed756d9a3a57.png",
@@ -36,12 +36,12 @@
     "static/media/snap-logo.png": "/static/media/snap-logo.c474796c21eb3a681c34.png",
     "static/media/os-logo.png": "/static/media/os-logo.701d62f54a3059ff8c57.png",
     "index.html": "/index.html",
-    "main.3c3b660c.css.map": "/static/css/main.3c3b660c.css.map",
-    "main.79ec7cc4.js.map": "/static/js/main.79ec7cc4.js.map",
+    "main.ab3e3980.css.map": "/static/css/main.ab3e3980.css.map",
+    "main.4529a88d.js.map": "/static/js/main.4529a88d.js.map",
     "787.fa53ab21.chunk.js.map": "/static/js/787.fa53ab21.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c3b660c.css",
-    "static/js/main.79ec7cc4.js"
+    "static/css/main.ab3e3980.css",
+    "static/js/main.4529a88d.js"
   ]
 }
