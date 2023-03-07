@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.84dc5cc7.css",
-    "main.js": "/static/js/main.ce44ce20.js",
+    "main.js": "/static/js/main.19c71beb.js",
     "static/js/787.fa53ab21.chunk.js": "/static/js/787.fa53ab21.chunk.js",
     "static/media/clonex.png": "/static/media/clonex.589180b511b16aded1ed.png",
     "static/media/BRAQ_Roadmap-01.png": "/static/media/BRAQ_Roadmap-01.dd241027ed756d9a3a57.png",
@@ -24,8 +24,8 @@
     "static/media/ats-logo.png": "/static/media/ats-logo.ac9cdc88bd22c54f8a22.png",
     "static/media/wenmint-logo.png": "/static/media/wenmint-logo.56cd701e86293bf0ff4b.png",
     "static/media/Banner_Background.jpeg": "/static/media/Banner_Background.b022f4b7c6dc2bb115f2.jpeg",
-    "static/media/crossmint-logo.png": "/static/media/crossmint-logo.009969d9736db4280288.png",
     "static/media/egg-logo.png": "/static/media/egg-logo.fe06c36b6bd9282c4062.png",
+    "static/media/crossmint-logo.png": "/static/media/crossmint-logo.119fe8c503cb2c4c75b6.png",
     "static/media/BRAQ_Header_Logo.png": "/static/media/BRAQ_Header_Logo.7e87d860aacd6452ff2b.png",
     "static/media/explore-dapp-logo.png": "/static/media/explore-dapp-logo.bc06c0b3e2dfeef8cf92.png",
     "static/media/Footer Discord.png": "/static/media/Footer Discord.c1dd424861d2dc8c3d8d.png",
@@ -38,11 +38,11 @@
     "static/media/os-logo.png": "/static/media/os-logo.701d62f54a3059ff8c57.png",
     "index.html": "/index.html",
     "main.84dc5cc7.css.map": "/static/css/main.84dc5cc7.css.map",
-    "main.ce44ce20.js.map": "/static/js/main.ce44ce20.js.map",
+    "main.19c71beb.js.map": "/static/js/main.19c71beb.js.map",
     "787.fa53ab21.chunk.js.map": "/static/js/787.fa53ab21.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.84dc5cc7.css",
-    "static/js/main.ce44ce20.js"
+    "static/js/main.19c71beb.js"
   ]
 }
