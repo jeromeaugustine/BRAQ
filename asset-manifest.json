@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.84dc5cc7.css",
-    "main.js": "/static/js/main.4529a88d.js",
+    "main.js": "/static/js/main.dee38162.js",
     "static/js/787.fa53ab21.chunk.js": "/static/js/787.fa53ab21.chunk.js",
     "static/media/clonex.png": "/static/media/clonex.589180b511b16aded1ed.png",
     "static/media/BRAQ_Roadmap-01.png": "/static/media/BRAQ_Roadmap-01.dd241027ed756d9a3a57.png",
@@ -32,16 +32,17 @@
     "static/media/Footer Twitter.png": "/static/media/Footer Twitter.0345fe4f8ea6d420cbcf.png",
     "static/media/Footer Medium.png": "/static/media/Footer Medium.8a0759e0aceaffa4db07.png",
     "static/media/delegate-logo.png": "/static/media/delegate-logo.db101e5174ad5d65c397.png",
+    "static/media/crossmint-logo.png": "/static/media/crossmint-logo.2be71b0c145c1b8e5825.png",
     "static/media/join-discord-logo.png": "/static/media/join-discord-logo.8f76b0328f4109be9165.png",
     "static/media/snap-logo.png": "/static/media/snap-logo.c474796c21eb3a681c34.png",
     "static/media/os-logo.png": "/static/media/os-logo.701d62f54a3059ff8c57.png",
     "index.html": "/index.html",
     "main.84dc5cc7.css.map": "/static/css/main.84dc5cc7.css.map",
-    "main.4529a88d.js.map": "/static/js/main.4529a88d.js.map",
+    "main.dee38162.js.map": "/static/js/main.dee38162.js.map",
     "787.fa53ab21.chunk.js.map": "/static/js/787.fa53ab21.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.84dc5cc7.css",
-    "static/js/main.4529a88d.js"
+    "static/js/main.dee38162.js"
   ]
 }
