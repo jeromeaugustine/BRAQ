@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d554cf9f.css",
-    "main.js": "/static/js/main.b912a93d.js",
+    "main.css": "/static/css/main.2c170ed6.css",
+    "main.js": "/static/js/main.9ccbe478.js",
     "static/js/787.fa53ab21.chunk.js": "/static/js/787.fa53ab21.chunk.js",
     "static/media/clonex.png": "/static/media/clonex.589180b511b16aded1ed.png",
     "static/media/BRAQ_Roadmap-01.png": "/static/media/BRAQ_Roadmap-01.dd241027ed756d9a3a57.png",
@@ -20,7 +20,6 @@
     "static/media/Raleway-Regular.ttf": "/static/media/Raleway-Regular.3927fa2a37e6f7f4c7c0.ttf",
     "static/media/Raleway-SemiBold.ttf": "/static/media/Raleway-SemiBold.cc770b2afb65067aae51.ttf",
     "static/media/Raleway-Black.ttf": "/static/media/Raleway-Black.6d75f2b870b0a5df344d.ttf",
-    "static/media/utilityboxbackground.png": "/static/media/utilityboxbackground.67da6deab5df8df94e13.png",
     "static/media/ats-logo.png": "/static/media/ats-logo.ac9cdc88bd22c54f8a22.png",
     "static/media/wenmint-logo.png": "/static/media/wenmint-logo.56cd701e86293bf0ff4b.png",
     "static/media/Banner_Background.jpeg": "/static/media/Banner_Background.b022f4b7c6dc2bb115f2.jpeg",
@@ -37,12 +36,12 @@
     "static/media/snap-logo.png": "/static/media/snap-logo.c474796c21eb3a681c34.png",
     "static/media/os-logo.png": "/static/media/os-logo.701d62f54a3059ff8c57.png",
     "index.html": "/index.html",
-    "main.d554cf9f.css.map": "/static/css/main.d554cf9f.css.map",
-    "main.b912a93d.js.map": "/static/js/main.b912a93d.js.map",
+    "main.2c170ed6.css.map": "/static/css/main.2c170ed6.css.map",
+    "main.9ccbe478.js.map": "/static/js/main.9ccbe478.js.map",
     "787.fa53ab21.chunk.js.map": "/static/js/787.fa53ab21.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d554cf9f.css",
-    "static/js/main.b912a93d.js"
+    "static/css/main.2c170ed6.css",
+    "static/js/main.9ccbe478.js"
   ]
 }
