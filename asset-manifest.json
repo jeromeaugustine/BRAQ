@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.50cd6af7.css",
-    "main.js": "/static/js/main.33f63ecf.js",
+    "main.css": "/static/css/main.df89caa2.css",
+    "main.js": "/static/js/main.42a827c3.js",
     "static/js/787.fa53ab21.chunk.js": "/static/js/787.fa53ab21.chunk.js",
     "static/media/clonex.png": "/static/media/clonex.589180b511b16aded1ed.png",
     "static/media/BRAQ_Roadmap-01.png": "/static/media/BRAQ_Roadmap-01.dd241027ed756d9a3a57.png",
     "static/media/Banner_Image.png": "/static/media/Banner_Image.e6b262d3cabe3027d9a2.png",
+    "static/media/darwon.png": "/static/media/darwon.c27b5b11fa9bb17ab9fd.png",
+    "static/media/ben.png": "/static/media/ben.7995cde56e009b399dea.png",
+    "static/media/anastasia.png": "/static/media/anastasia.b34c5c1542828bdff80e.png",
     "static/media/otherdeed.png": "/static/media/otherdeed.10e0f4c56b53663e9ffb.png",
     "static/media/mayc.png": "/static/media/mayc.680fd907cd793bb5bcf1.png",
+    "static/media/poppa.png": "/static/media/poppa.5172004be1c68140766e.png",
     "static/media/utilityImage.png": "/static/media/utilityImage.7614690cb35b90ad36ef.png",
+    "static/media/zorph.png": "/static/media/zorph.507bb4cd616ee2b8c346.png",
     "static/media/braq_token.png": "/static/media/braq_token.c844f749d909a22e61b1.png",
+    "static/media/jerome.png": "/static/media/jerome.8afb333669d1c6f3cc8d.png",
+    "static/media/david.png": "/static/media/david.10fb73170fa5d1d1fde7.png",
     "static/media/doodles.png": "/static/media/doodles.7195dfa7fd9bbe9d9947.png",
     "static/media/moonbirds.png": "/static/media/moonbirds.bab07d59dee913291084.png",
     "static/media/nextasset.png": "/static/media/nextasset.a0930e1059e4a378a778.png",
@@ -31,20 +38,19 @@
     "static/media/Footer Discord.png": "/static/media/Footer Discord.c1dd424861d2dc8c3d8d.png",
     "static/media/braqheaderlogo.png": "/static/media/braqheaderlogo.d831f5b4cf241212b3c7.png",
     "static/media/safe-logo.png": "/static/media/safe-logo.273acc5665aa2f4a224f.png",
-    "static/media/Footer Twitter.png": "/static/media/Footer Twitter.0345fe4f8ea6d420cbcf.png",
+    "static/media/FooterTwitter.png": "/static/media/FooterTwitter.0345fe4f8ea6d420cbcf.png",
     "static/media/Footer Medium.png": "/static/media/Footer Medium.8a0759e0aceaffa4db07.png",
     "static/media/delegate-logo.png": "/static/media/delegate-logo.db101e5174ad5d65c397.png",
     "static/media/join-discord-logo.png": "/static/media/join-discord-logo.8f76b0328f4109be9165.png",
-    "static/media/tokenomicsImage.png": "/static/media/tokenomicsImage.7a7dd81c4abe1f670bab.png",
     "static/media/snap-logo.png": "/static/media/snap-logo.c474796c21eb3a681c34.png",
     "static/media/os-logo.png": "/static/media/os-logo.701d62f54a3059ff8c57.png",
     "index.html": "/index.html",
-    "main.50cd6af7.css.map": "/static/css/main.50cd6af7.css.map",
-    "main.33f63ecf.js.map": "/static/js/main.33f63ecf.js.map",
+    "main.df89caa2.css.map": "/static/css/main.df89caa2.css.map",
+    "main.42a827c3.js.map": "/static/js/main.42a827c3.js.map",
     "787.fa53ab21.chunk.js.map": "/static/js/787.fa53ab21.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.50cd6af7.css",
-    "static/js/main.33f63ecf.js"
+    "static/css/main.df89caa2.css",
+    "static/js/main.42a827c3.js"
   ]
 }
