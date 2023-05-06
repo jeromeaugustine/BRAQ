@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.71979bfc.css",
-    "main.js": "/static/js/main.f05163fa.js",
+    "main.css": "/static/css/main.d0c5e0a6.css",
+    "main.js": "/static/js/main.a81e885b.js",
     "static/js/787.fa53ab21.chunk.js": "/static/js/787.fa53ab21.chunk.js",
     "static/media/clonex.png": "/static/media/clonex.589180b511b16aded1ed.png",
     "static/media/BRAQ_Roadmap-01.png": "/static/media/BRAQ_Roadmap-01.dd241027ed756d9a3a57.png",
@@ -34,9 +34,9 @@
     "static/media/Banner_Background.jpeg": "/static/media/Banner_Background.b022f4b7c6dc2bb115f2.jpeg",
     "static/media/egg-logo.png": "/static/media/egg-logo.fe06c36b6bd9282c4062.png",
     "static/media/crossmint-logo.png": "/static/media/crossmint-logo.119fe8c503cb2c4c75b6.png",
+    "static/media/BRAQ_LOGO_PURPLE.png": "/static/media/BRAQ_LOGO_PURPLE.349e79c220c23c1cf476.png",
     "static/media/explore-dapp-logo.png": "/static/media/explore-dapp-logo.bc06c0b3e2dfeef8cf92.png",
     "static/media/Footer Discord.png": "/static/media/Footer Discord.c1dd424861d2dc8c3d8d.png",
-    "static/media/braqheaderlogo.png": "/static/media/braqheaderlogo.d831f5b4cf241212b3c7.png",
     "static/media/safe-logo.png": "/static/media/safe-logo.273acc5665aa2f4a224f.png",
     "static/media/FooterTwitter.png": "/static/media/FooterTwitter.0345fe4f8ea6d420cbcf.png",
     "static/media/Footer Medium.png": "/static/media/Footer Medium.8a0759e0aceaffa4db07.png",
@@ -45,12 +45,12 @@
     "static/media/snap-logo.png": "/static/media/snap-logo.c474796c21eb3a681c34.png",
     "static/media/os-logo.png": "/static/media/os-logo.701d62f54a3059ff8c57.png",
     "index.html": "/index.html",
-    "main.71979bfc.css.map": "/static/css/main.71979bfc.css.map",
-    "main.f05163fa.js.map": "/static/js/main.f05163fa.js.map",
+    "main.d0c5e0a6.css.map": "/static/css/main.d0c5e0a6.css.map",
+    "main.a81e885b.js.map": "/static/js/main.a81e885b.js.map",
     "787.fa53ab21.chunk.js.map": "/static/js/787.fa53ab21.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.71979bfc.css",
-    "static/js/main.f05163fa.js"
+    "static/css/main.d0c5e0a6.css",
+    "static/js/main.a81e885b.js"
   ]
 }
