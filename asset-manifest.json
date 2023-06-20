@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.56fdd4c6.css",
-    "main.js": "/static/js/main.466c0e07.js",
+    "main.css": "/static/css/main.44621bb7.css",
+    "main.js": "/static/js/main.72b86d14.js",
     "static/js/787.fa53ab21.chunk.js": "/static/js/787.fa53ab21.chunk.js",
     "static/media/launchpadmainbackground.png": "/static/media/launchpadmainbackground.674c6031d34292835c8d.png",
     "static/media/darwon.png": "/static/media/darwon.c27b5b11fa9bb17ab9fd.png",
@@ -36,12 +36,12 @@
     "static/media/NervosLogo2.png": "/static/media/NervosLogo2.350ada32457a868e8df4.png",
     "static/media/algoLogo2.png": "/static/media/algoLogo2.161a677b418e60ce2a85.png",
     "index.html": "/index.html",
-    "main.56fdd4c6.css.map": "/static/css/main.56fdd4c6.css.map",
-    "main.466c0e07.js.map": "/static/js/main.466c0e07.js.map",
+    "main.44621bb7.css.map": "/static/css/main.44621bb7.css.map",
+    "main.72b86d14.js.map": "/static/js/main.72b86d14.js.map",
     "787.fa53ab21.chunk.js.map": "/static/js/787.fa53ab21.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.56fdd4c6.css",
-    "static/js/main.466c0e07.js"
+    "static/css/main.44621bb7.css",
+    "static/js/main.72b86d14.js"
   ]
 }
