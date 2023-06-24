@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.44621bb7.css",
-    "main.js": "/static/js/main.ce402484.js",
+    "main.css": "/static/css/main.5b720492.css",
+    "main.js": "/static/js/main.5f1c947e.js",
     "static/js/787.fa53ab21.chunk.js": "/static/js/787.fa53ab21.chunk.js",
     "static/media/launchpadmainbackground.png": "/static/media/launchpadmainbackground.674c6031d34292835c8d.png",
     "static/media/darwon.png": "/static/media/darwon.c27b5b11fa9bb17ab9fd.png",
     "static/media/ben.png": "/static/media/ben.7995cde56e009b399dea.png",
+    "static/media/salebackground.png": "/static/media/salebackground.827990a6239bdc12f80c.png",
     "static/media/anastasia.png": "/static/media/anastasia.b34c5c1542828bdff80e.png",
     "static/media/dAppImage.png": "/static/media/dAppImage.1a576c9889feef21dcd0.png",
     "static/media/testimonialImage.png": "/static/media/testimonialImage.4bd9a60a3aebcaa47c6c.png",
@@ -29,19 +30,21 @@
     "static/media/KMSSLogo.png": "/static/media/KMSSLogo.7456f285b75bab49ad42.png",
     "static/media/Footer Medium.png": "/static/media/Footer Medium.8a0759e0aceaffa4db07.png",
     "static/media/navbarButton.png": "/static/media/navbarButton.4a237e9eed3dd49acf06.png",
+    "static/media/salebutton.png": "/static/media/salebutton.0630d765df46891ea950.png",
     "static/media/braqLogo.png": "/static/media/braqLogo.83905beb876beca5c662.png",
     "static/media/CTAButton.png": "/static/media/CTAButton.40f1411dafcaa9b5ef4e.png",
+    "static/media/salebanner.png": "/static/media/salebanner.5f6571a072e9a8fffbb1.png",
     "static/media/certikLogoNew.png": "/static/media/certikLogoNew.2c59aca689a574372c0b.png",
     "static/media/launchpadLogo.png": "/static/media/launchpadLogo.c120f02fb0985313291b.png",
     "static/media/NervosLogo2.png": "/static/media/NervosLogo2.350ada32457a868e8df4.png",
     "static/media/algoLogo2.png": "/static/media/algoLogo2.161a677b418e60ce2a85.png",
     "index.html": "/index.html",
-    "main.44621bb7.css.map": "/static/css/main.44621bb7.css.map",
-    "main.ce402484.js.map": "/static/js/main.ce402484.js.map",
+    "main.5b720492.css.map": "/static/css/main.5b720492.css.map",
+    "main.5f1c947e.js.map": "/static/js/main.5f1c947e.js.map",
     "787.fa53ab21.chunk.js.map": "/static/js/787.fa53ab21.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.44621bb7.css",
-    "static/js/main.ce402484.js"
+    "static/css/main.5b720492.css",
+    "static/js/main.5f1c947e.js"
   ]
 }
