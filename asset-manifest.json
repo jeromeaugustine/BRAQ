@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.5b720492.css",
+    "main.css": "/static/css/main.e022bba1.css",
     "main.js": "/static/js/main.5f1c947e.js",
     "static/js/787.fa53ab21.chunk.js": "/static/js/787.fa53ab21.chunk.js",
     "static/media/launchpadmainbackground.png": "/static/media/launchpadmainbackground.674c6031d34292835c8d.png",
+    "static/media/salebackground.png": "/static/media/salebackground.5ad277dd21e678d33fbc.png",
     "static/media/darwon.png": "/static/media/darwon.c27b5b11fa9bb17ab9fd.png",
     "static/media/ben.png": "/static/media/ben.7995cde56e009b399dea.png",
-    "static/media/salebackground.png": "/static/media/salebackground.827990a6239bdc12f80c.png",
     "static/media/anastasia.png": "/static/media/anastasia.b34c5c1542828bdff80e.png",
     "static/media/dAppImage.png": "/static/media/dAppImage.1a576c9889feef21dcd0.png",
     "static/media/testimonialImage.png": "/static/media/testimonialImage.4bd9a60a3aebcaa47c6c.png",
@@ -39,12 +39,12 @@
     "static/media/NervosLogo2.png": "/static/media/NervosLogo2.350ada32457a868e8df4.png",
     "static/media/algoLogo2.png": "/static/media/algoLogo2.161a677b418e60ce2a85.png",
     "index.html": "/index.html",
-    "main.5b720492.css.map": "/static/css/main.5b720492.css.map",
+    "main.e022bba1.css.map": "/static/css/main.e022bba1.css.map",
     "main.5f1c947e.js.map": "/static/js/main.5f1c947e.js.map",
     "787.fa53ab21.chunk.js.map": "/static/js/787.fa53ab21.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b720492.css",
+    "static/css/main.e022bba1.css",
     "static/js/main.5f1c947e.js"
   ]
 }
